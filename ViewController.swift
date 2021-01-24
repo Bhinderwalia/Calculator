@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  calculator3
+//  calculator1
 //
 //  Created by Bhinder on 20/11/20.
 //
